@@ -1,6 +1,6 @@
 {
   "topology_docs": {
     "Overview": "/",
-    "module name here": "core.html"
+    "topology_docs": "core.html"
   }
 }
