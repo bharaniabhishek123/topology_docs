@@ -24,17 +24,12 @@ Fill me in please! Don't forget code examples:
 
 
 ```python
-say_hello
+say_hello("Abhishek!")
 ```
 
 
-    ---------------------------------------------------------------------------
 
-    NameError                                 Traceback (most recent call last)
 
-    <ipython-input-9-141ada93aee3> in <module>
-    ----> 1 doc(say_hello)
-    
+    'Hello Abhishek!!'
 
-    NameError: name 'doc' is not defined
 
